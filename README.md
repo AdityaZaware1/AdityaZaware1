@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Zaware</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">I am from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityazaware1&label=Profile%20views&color=0e75b6&style=flat" alt="adityazaware1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityazaware1" alt="adityazaware1" /></a> </p>
 
-- 🌱 I’m currently learning **about Advanced Devops**
-
-- 💬 Ask me about **Java, Spring Boot**
-
-- 📫 How to reach me **zawareaditya04@gmail.com**
+- 📫 Email **zawareaditya04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
